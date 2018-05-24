@@ -20,7 +20,7 @@ public class Fibonical
 		{
 			int x= ob.fun (i);
 			System.out.println(x);
-			/*it can also be weitten as 
+			/*it can also be written as 
 			System.out.println(fun(i));*/
 		}
 	}
